@@ -5,6 +5,11 @@
 Tenzies is a simple yet exciting dice game where the goal is to select all the dice showing the same number as quickly as possible. This project is built using [Rect 19](https://github.com/facebook/react) and demonstrates interactive gameplay using React components.
 
 ---
+## Demo Video 🎥
+
+[![Watch the video](https://img.youtube.com/vi/G7A2Z2ETPso/0.jpg)](https://youtu.be/G7A2Z2ETPso)
+
+---
 
 ## Features
 - **Interactive Dice Selection**: Players can click on dice to freeze their values.
